@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/mtimofiiv/imagecondom/issues"
   },
-  "homepage": "https://github.com/mtimofiiv/imagecondom"
+  "homepage": "https://github.com/mtimofiiv/imagecondom",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "gm": "^1.21.1",
+    "request": "^2.65.0"
+  }
 }

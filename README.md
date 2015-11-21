@@ -10,4 +10,14 @@ Image Condom uses streams for all three of its functionalities (input, real-time
 
 ## Usage
 
-<coming soon>
+## Running
+
+ * `npm run start` starts the application
+ * `npm run cluster` starts the application in clustered mode using [pm2](https://github.com/Unitech/pm2)
+
+## Installing
+
+ * Copy `.env-sample` to `.env`
+ * Fill in the `MAX_SIZE` to whatever you want
+ 
+_NOTE_: if you're going to use it on Heroku, use the [GraphicsMagick buildpack](https://github.com/mcollina/heroku-buildpack-graphicsmagick).

@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/mtimofiiv/imagecondom",
   "dependencies": {
+    "bytes": "^2.2.0",
     "dotenv": "^1.2.0",
     "gm": "^1.21.1",
     "pm2": "^0.15.10",

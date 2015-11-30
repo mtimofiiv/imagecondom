@@ -19,6 +19,11 @@ http://images.server.com/500/aHR0cHM6Ly9ibG9nLmZpaXYuaW8vYXNzZXRzL2ltYWdlcy8yMDE
  * The first part of the request, the `500` is the width you want the image to be resized to.
  * The second part of the URI is the base64-encoded URI of the image you want.
 
+An example instance of the imagecondom is running here: 
+https://fiiv-imagecondom.herokuapp.com
+
+It is, of course, on a free Heroku tier, so naturally not really usable for production as it goes to sleep.
+
 ## Caching
 
 By default, all the assets are set with maximum expiry cache headers. If you need to get a version without these, append `?bypassCache=true` to the request.

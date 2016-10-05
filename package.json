@@ -1,6 +1,6 @@
 {
   "name": "imagecondom",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Image condom is an on-the-fly proxy server for images. It can be used for when you want to resize an image without having to resize it.",
   "main": "app.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/mtimofiiv/imagecondom/issues"
   },
   "engines": {
-    "node": "4.1.2"
+    "node": "6.5.0"
   },
   "homepage": "https://github.com/mtimofiiv/imagecondom",
   "dependencies": {

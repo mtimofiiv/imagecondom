@@ -1,1 +1,1 @@
-web: npm run cluster
+web: node app.js

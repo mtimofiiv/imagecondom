@@ -21,9 +21,6 @@
   "bugs": {
     "url": "https://github.com/mtimofiiv/imagecondom/issues"
   },
-  "engines": {
-    "node": "9"
-  },
   "homepage": "https://github.com/mtimofiiv/imagecondom",
   "dependencies": {
     "bytes": "^2.2.0",
